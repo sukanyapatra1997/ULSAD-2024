@@ -2,7 +2,7 @@
 
 This is the official repository for our paper "Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection"
 
-> **Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**
+> **Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**  
 > Anonymous Authors
 >
 > [[`Paper`](README.md)]
